@@ -1,0 +1,13 @@
+{
+  "name": "Stat Sheet",
+  "short_name": "Stat Sheet",
+  "icons": [{
+    "src": "images/icon-png",
+    "sizes": "72x72 96x96 128x128 256x256"
+  }],
+  "start_url": "/index.html",
+  "description": "This is a web application intended to record basketball stats during a basketball match",
+  "display": "standalone",
+  "background_color": "#EEEEEE",
+  "theme_color": "#1e88e5"
+}
